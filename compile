@@ -1,0 +1,1 @@
+g++ -o main main.cpp WinbondW25N.cpp -lwiringPi
